@@ -3,7 +3,7 @@
 
 - 👀 I’m interested mostly in all kind of technologies. Most of them related to either modern software development and/or IoT/Smarthome/Industry4.0 applications.
 - 🔭 I’m currently working at Red Hat as transformation expert, both technology as well as people, process and proper leadership
-- 📫 <a rel="me" href="https://mastodon.tuxtendo.nl/@poweredge">Mastodon</a> 
+- 📫 Reach out to me on <a rel="me" href="https://mastodon.tuxtendo.nl/@poweredge">mastodon.tuxtendo.nl/@poweredge</a> 
 - 📫 Connect with me on [LinkedIN](https://www.linkedin.com/in/peterpaulkurstjens/)
 
 <!---
